@@ -1,0 +1,14 @@
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+div {
+  margin: 10px;
+}
+
+button {
+  font-size: 3vw;
+  border-radius: 15px;
+  background-color: white;
+}
